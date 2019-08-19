@@ -1,0 +1,8 @@
+<h1 class="title">Usuarios</h1>
+<h2 class="subtitle">Editar Usuario</h2>
+<app-user-form 
+    *ngIf="user"
+    type="edit"
+    (handleSubmit)="onSubmit($event)"
+    [model]="user"
+></app-user-form>

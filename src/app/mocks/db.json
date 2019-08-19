@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "Jusfral Medina Malpica",
+      "job": "Data Analyst",
+      "age": 29,
+      "phone": "977187379",
+      "email": "medinamalpica@gmail.com"
+    },
+    {
+      "id": 102,
+      "name": "Angie Roman Diaz",
+      "job": "Technical Saleswoman",
+      "age": 31,
+      "phone": "83906733",
+      "email": "angie.rd@gmail.com"
+    }
+  ]
+}
